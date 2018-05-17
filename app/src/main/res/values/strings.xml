@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InstaCare</string>
+    <string name="action_accsetup_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="action_info_call">Call</string>
+    <string name="action_info_msg">Message</string>
+    <string name="action_call_text">Call</string>
+
+    <string-array name="blood_gruops">
+        <item>A Positive</item>
+        <item>A Negative</item>
+        <item>B Positive</item>
+        <item>B Negative</item>
+        <item>AB Positive</item>
+        <item>AB Negative</item>
+        <item>O Positive</item>
+        <item>O Negative</item>
+    </string-array>
+</resources>

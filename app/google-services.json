@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "947992612209",
+    "firebase_url": "https://instacare-9632e.firebaseio.com",
+    "project_id": "instacare-9632e",
+    "storage_bucket": "instacare-9632e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947992612209:android:9de06e78e455d1f8",
+        "android_client_info": {
+          "package_name": "com.example.srinivasprasad.instacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947992612209-b3qgeahkna0e36tb2kio699sci517rqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.srinivasprasad.instacare",
+            "certificate_hash": "709aba5e7e815496da1242a8b320250ab1093689"
+          }
+        },
+        {
+          "client_id": "947992612209-f71j7mbevjpdcop7icreff4m176btfeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4bPauaOoqGBFBzGbC0I45JiU77PMNZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947992612209-f71j7mbevjpdcop7icreff4m176btfeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
